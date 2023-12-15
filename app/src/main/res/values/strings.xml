@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="first_image">Pudge</string>
+    <string name="second_image">Ember Spirit</string>
+    <string name="third_image">IO</string>
+    <string name="forth_image">Crystal Maiden</string>
+    <string name="author">AI Bot</string>
+    <string name="year">2023</string>
+</resources>
